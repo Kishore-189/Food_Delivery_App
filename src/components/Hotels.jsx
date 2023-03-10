@@ -32,7 +32,6 @@ export default function Hotels(props) {
                         </div>
                         <div className='m-1 w-100'> 
                             <button className='btn m-2'>ADD TO CART</button>
- 
                         </div>
         </div>
     </div>
